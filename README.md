@@ -79,6 +79,13 @@ $ cat hello_world.by | ./tiresias
   Hello World!
 ```
 
+### Acknowledgements
+
 This work is inspired by the blog post 'x86 is Turing-complete with no
 registers'.
 http://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html
+
+### Author
+
+Tiresias is a proof-of-concept from Christopher Domas
+([@xoreaxeaxeax](https://twitter.com/xoreaxeaxeax)).
